@@ -33,7 +33,7 @@
 - [프로그래밍 언어 배우기의 달인](http://agile.egloos.com/5664879)
 - [프로그래밍 어떻게 공부할 것인가](https://mindscale.kr/course/how-to-learn-prg)
 - [기획자의 욕심에 대한 생각](http://www.ecogwiki.com/%EA%B8%B0%ED%9A%8D%EC%9E%90%EC%9D%98_%EC%9A%95%EC%8B%AC%EC%97%90_%EB%8C%80%ED%95%9C_%EC%83%9D%EA%B0%81)
-- [Simplicity Is Not the Answer](https://www.jnd.org/dn.mss/simplicity_is_not_the_answer.html)
+- [Simplicity Is Not the Answer](https://jnd.org/simplicity_is_not_the_answer/)
 - [김창준님의 2016년 5월 9일 Facebook 글 ](https://www.facebook.com/cjunekim/posts/1261642160531015)
 - [김창준님의 2017년 10월 18일 Facebook 글 ](https://www.facebook.com/cjunekim/posts/1826831800678712)
 - [음의 생산성](http://agile.egloos.com/5822712)
