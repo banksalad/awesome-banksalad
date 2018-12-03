@@ -43,6 +43,7 @@
 ## 사용자를 생각하기
 
 - [프로그래머의 위기지학](http://agile.egloos.com/2807583)
+- [UX가 뭐지? 내 책임이 아닌데?](http://agile.egloos.com/4959821)
 - [사용자 경험이란](http://www.ecogwiki.com/%EC%82%AC%EC%9A%A9%EC%9E%90_%EA%B2%BD%ED%97%98%EC%9D%B4%EB%9E%80)
 - [UX 팀 오브 원](https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8994774904)
 - [기획이란 분산 시스템을 설계하는 것 ](http://www.ecogwiki.com/%EA%B8%B0%ED%9A%8D%EC%9D%B4%EB%9E%80_%EB%B6%84%EC%82%B0_%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%9D%84_%EC%84%A4%EA%B3%84%ED%95%98%EB%8A%94_%EA%B2%83)
