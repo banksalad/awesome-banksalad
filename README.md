@@ -75,4 +75,5 @@
 - [떨어트리는 면접](http://agile.egloos.com/2920765)
 - [영리하나 열정이 없다](http://agile.egloos.com/5304902)
 - [비폭력 대화](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=125174961)
+- [우리가 피드백을 대하는 자세](http://agile.egloos.com/5252946)
 - [Agile is Dead](https://youtu.be/a-BOSpxYJ9M)
