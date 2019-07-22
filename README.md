@@ -11,7 +11,7 @@
 - [PEP 20 -- The Zen of Python](https://www.python.org/dev/peps/pep-0020/)
 - [Startup = Growth](http://www.paulgraham.com/growth.html)
 - [편법이 통하지 않는 세계](https://youtu.be/FAvRPbFDUUo)
-- [Do things that Don't Scale](http://www.paulgraham.com/ds.html)
+- [확장 가능하지 않은 일을 하라](https://medium.com/@Jaemyung/do-things-that-dont-scale-6876c5682a75) <sup>[[원문]](http://www.paulgraham.com/ds.html)</sup>
 - [아마존이 20년간 갈고 닦은 비즈니스 접근법](https://youtu.be/l9X8X-Ixbo8)
 - [서상현님의 2015년 3월 23일 Facebook 글](https://www.facebook.com/sanxiyn/posts/10206552188552146)
 - [소프트웨어는 녹이 슨다](https://blog.hongminhee.org/2014/04/13/82482810330/)
