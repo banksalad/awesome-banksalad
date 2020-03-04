@@ -19,7 +19,7 @@
 - [리팩토링](http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=20793053)
 - [클린 코드](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=34083680)
 - [Microservices](https://martinfowler.com/articles/microservices.html)
-- [How to Write Awesome Tech Specs](https://www.facebook.com/groups/481953859252028)
+- [How to Write Awesome Tech Specs](https://eng.lyft.com/awesome-tech-specs-86eea8e45bb9)
 
 ## 기민하게 학습하기
 
