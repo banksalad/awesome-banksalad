@@ -1,8 +1,8 @@
-# Awesome Rainist
+# awesome-banksalad
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-[뱅크샐러드](https://banksalad.com)를 만드는 [레이니스트](https://rainist.com) 기술 팀이 지향하는 생각과 일하는 방식을 소개합니다.
+[뱅크샐러드](https://banksalad.com) 기술 팀이 지향하는 생각과 일하는 방식을 소개합니다.
 
 ## 방향 맞추기
 
