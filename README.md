@@ -15,7 +15,6 @@
 - [아마존이 20년간 갈고 닦은 비즈니스 접근법](https://youtu.be/l9X8X-Ixbo8)
 - [서상현님의 2015년 3월 23일 Facebook 글](https://www.facebook.com/sanxiyn/posts/10206552188552146)
 - [소프트웨어는 녹이 슨다](https://blog.hongminhee.org/2014/04/13/82482810330/)
-- [테스트 주도 개발이란](http://www.ecogwiki.com/%ED%85%8C%EC%8A%A4%ED%8A%B8_%EC%A3%BC%EB%8F%84_%EA%B0%9C%EB%B0%9C%EC%9D%B4%EB%9E%80)
 - [리팩토링](http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=20793053)
 - [클린 코드](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=34083680)
 - [Microservices](https://martinfowler.com/articles/microservices.html)
